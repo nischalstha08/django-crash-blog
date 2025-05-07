@@ -165,16 +165,14 @@ This project is open-source and free to use for educational and non-commercial p
 
 Feel free to reach out if you're hiring, collaborating, or have questions.
 
-- 🌍 Portfolio: [YourWebsite.com](https://yourwebsite.com)
-- 📫 Email: you@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌍 Portfolio: [nischalshrestha.info.np](https://www.nischalshrestha.info.np)
+- 📫 Email: nischalstha08@gmail.com / hello@nischalshrestha.info.np 
+- 💼 LinkedIn: [linkedin.com/in/nischalstha08](https://linkedin.com/in/nischalstha08)
 
 ---
 
 ## 📸 Screenshots
 
-_You can add screenshots of the homepage, admin panel, post detail page, etc._
 
----
 
 **Thank you for checking out my project!**
